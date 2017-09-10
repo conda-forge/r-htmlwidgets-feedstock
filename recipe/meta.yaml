@@ -1,4 +1,4 @@
-{% set version = '0.8' %}
+{% set version = '0.9' %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,7 +12,7 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/htmlwidgets_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/htmlwidgets/htmlwidgets_{{ version }}.tar.gz
-  sha256: 9232b78727c1ecd006cd8e607ef76417d795f011b0e4a7535e6d673228bfc3b5
+  sha256: 1154b541ccd868e41d3cf0d7f188f7275ec99f61fe2c7de21c8a05edb19b985e
 
 build:
   number: 0
