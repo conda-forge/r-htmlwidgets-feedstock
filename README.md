@@ -14,14 +14,16 @@ Summary: A framework for creating HTML widgets that render in various contexts i
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-htmlwidgets-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-htmlwidgets-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-htmlwidgets-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-htmlwidgets-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-htmlwidgets-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-htmlwidgets-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-htmlwidgets-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-htmlwidgets-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-htmlwidgets-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-htmlwidgets-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-htmlwidgets-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-htmlwidgets-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-htmlwidgets/badges/version.svg)](https://anaconda.org/conda-forge/r-htmlwidgets)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-htmlwidgets/badges/downloads.svg)](https://anaconda.org/conda-forge/r-htmlwidgets)
+[![Conda Recipe](https://img.shields.io/badge/recipe-r--htmlwidgets-green.svg)](https://anaconda.org/conda-forge/r-htmlwidgets)
+[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-htmlwidgets.svg)](https://anaconda.org/conda-forge/r-htmlwidgets)
+[![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-htmlwidgets.svg)](https://anaconda.org/conda-forge/r-htmlwidgets)
+[![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-htmlwidgets.svg)](https://anaconda.org/conda-forge/r-htmlwidgets)
 
 Installing r-htmlwidgets
 ========================
