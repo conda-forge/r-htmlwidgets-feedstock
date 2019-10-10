@@ -1,4 +1,4 @@
-{% set version = '1.5' %}
+{% set version = "1.5.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/htmlwidgets_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/htmlwidgets/htmlwidgets_{{ version }}.tar.gz
-  sha256: 9188a0c37a4198bcafd7ee0084531d474bb50aaf6f986fc7595ab39d60915ac0
+  sha256: d42e59144552d9b4131f11ddd6169dfb9bd538c7996669a09acbdb400d18d781
 
 build:
   merge_build_host: True  # [win]
