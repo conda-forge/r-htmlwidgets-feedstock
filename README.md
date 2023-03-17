@@ -1,11 +1,11 @@
-About r-htmlwidgets
-===================
+About r-htmlwidgets-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-htmlwidgets-feedstock/blob/main/LICENSE.txt)
 
 Home: http://htmlwidgets.org
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-htmlwidgets-feedstock/blob/main/LICENSE.txt)
 
 Summary: A framework for creating HTML widgets that render in various contexts including the R console, 'R Markdown' documents, and 'Shiny' web applications.
 
