@@ -14,7 +14,7 @@ source:
 
 build:
   merge_build_host: true  # [win]
-  number: 0
+  number: 1
   noarch: generic
   rpaths:
     - lib/R/lib/
@@ -25,14 +25,14 @@ requirements:
     - {{ posix }}zip               # [win]
   host:
     - r-base
-    - r-htmltools >=0.5.4
+    - r-htmltools >=0.5.7
     - r-jsonlite >=0.9.16
     - r-knitr >=1.8
     - r-rmarkdown
     - r-yaml
   run:
     - r-base
-    - r-htmltools >=0.5.4
+    - r-htmltools >=0.5.7
     - r-jsonlite >=0.9.16
     - r-knitr >=1.8
     - r-rmarkdown
