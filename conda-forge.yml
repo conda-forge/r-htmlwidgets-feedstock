@@ -1,4 +1,6 @@
 bot:
+  abi_migration_branches:
+  - v1.5
   automerge: true
 conda_build:
   pkg_format: '2'
